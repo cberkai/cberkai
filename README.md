@@ -82,9 +82,12 @@
 
 <br/>  
 
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cberkai&theme=dark&hide_border=true&ring=DD0700&currStreakNum=DD2727&currStreakLabel=DD2727&dates=DDDDDD)](https://git.io/streak-stats)
-</div>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cberkai&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cberkai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <br/>  
 
