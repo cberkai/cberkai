@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif?cid=ecf05e4735dxyqofy00vzlp6461urqmhz8jkjgdjigoiwcdw&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://giphy.com/gifs/microsoft-party-time-bill-gates-l3q2zbskZp2j8wniE" align="center" style="width: 100%" />
 </div>  
       <div align="center"><h1 font-family="bold">Welcome the my repoo</h1></div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">Get to know me up close and personal to learn more... you might be surprised by a few of my qualities
 
-   ----------------------------------------------</div>  
+  <br></div>  
   
 
 <div align="center">"Code is nothing but the true power of technology."</div>  
