@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a frontend developer with 1 year of experience in software development. I continue to learn with the same enthusiasm and excitement. <br><br>Get to know me up close and personal to learn more... you might be surprised by a few of my qualities<br><br>"Code is nothing but the true power of technology."
+Hi, I'm Berkay, a programmer of today but a leader of tomorrow.I have 1 year of experience as a front end developer in the software industry. I continue to learn with the same enthusiasm and excitement. <br><br>Get to know me up close and personal to learn more... you might be surprised by a few of my qualities<br><br>"Code is nothing but the true power of technology."
 
 
 ## 🌐 Socials:
