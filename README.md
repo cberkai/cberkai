@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.imgur.com/OTKgDSt.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/l3q2zbskZp2j8wniE/giphy.gif?cid=ecf05e4735dxyqofy00vzlp6461urqmhz8jkjgdjigoiwcdw&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
-  
+      <div align="center"><h1 font-family="bold">Welcome the my repoo</h1></div>
 
 ### <div align="center">Hi, I'm Berkay, a programmer of today but a leader of tomorrow.I have 1 year of experience as a front end developer in the software industry. I continue to learn with the same enthusiasm and excitement.
 
